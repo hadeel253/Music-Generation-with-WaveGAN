@@ -20,4 +20,4 @@ This work is intended for **research purposes** only.
 
 References:
  
-https://arxiv.org/abs/1306.1461
+GTZAN dataset https://arxiv.org/abs/1306.1461
