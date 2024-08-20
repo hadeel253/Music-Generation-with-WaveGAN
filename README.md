@@ -21,3 +21,4 @@ This work is intended for **research purposes** only.
 References:
  
 GTZAN dataset https://arxiv.org/abs/1306.1461
+Pytorch WaveGAN https://github.com/mostafaelaraby/wavegan-pytorch.git
