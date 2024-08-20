@@ -6,7 +6,7 @@ Generated music segments are available to listen to.
 
 This work is intended for **research purposes** only.
 
-
+ 
 References:
  
 https://arxiv.org/abs/1306.1461
