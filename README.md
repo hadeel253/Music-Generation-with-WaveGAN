@@ -6,7 +6,7 @@ In this study, we utilize the WaveGAN architecture to generate music segments on
  
 - In the second experiment, we limited the dataset to only the **blues** genre class, providing us with only 100 samples for training and validation. Augmentation was applied to increase the diversity and generalizability of the model, and the music was segmented into 1-second segments. 
  
-Augmented music and generated music samples and are available to listen to [here](https://hadeel253.github.io/Music-Generation-with-WaveGAN/).
+Augmented music and generated music samples and are available to listen to [here](https://hadeel253.github.io/Music-Generation-with-WaveGAN/). Future work is intended to improve the quality of samples including using label conditioning and either a simpler dataset or a better suited model for the task.
 
 This work is intended for **research purposes** only.
 
